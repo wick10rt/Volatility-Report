@@ -1,0 +1,13 @@
+# 大型樣本與工具目錄，不上傳
+memforensics/
+
+# demo 跑出來的輸出
+demo_output/
+
+# 自己環境的截圖，不進版控
+images/
+
+# 簡報 / PDF / 產生腳本：成品與工具，不進版控（內容以 md 文件為準）
+*.pptx
+*.pdf
+*.py
